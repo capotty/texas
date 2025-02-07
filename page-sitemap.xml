@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -20,84 +23,84 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/moore/</loc>
-		<lastmod>2025-02-06T03:43:13+00:00</lastmod>
+		<loc>/corpus-christi/</loc>
+		<lastmod>2025-02-07T02:10:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/midwest-city/</loc>
-		<lastmod>2025-02-06T03:43:13+00:00</lastmod>
+		<loc>/plano/</loc>
+		<lastmod>2025-02-07T02:10:00+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/enid/</loc>
-		<lastmod>2025-02-06T03:43:13+00:00</lastmod>
+		<loc>/arlington/</loc>
+		<lastmod>2025-02-07T02:09:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/edmond/</loc>
-		<lastmod>2025-02-06T03:43:12+00:00</lastmod>
+		<loc>/el-paso/</loc>
+		<lastmod>2025-02-07T02:09:59+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/lawton/</loc>
-		<lastmod>2025-02-06T03:43:12+00:00</lastmod>
+		<loc>/dallas/</loc>
+		<lastmod>2025-02-07T02:09:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/norman/</loc>
-		<lastmod>2025-02-06T03:43:11+00:00</lastmod>
+		<loc>/austin/</loc>
+		<lastmod>2025-02-07T02:09:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/broken-arrow/</loc>
-		<lastmod>2025-02-06T03:43:11+00:00</lastmod>
+		<loc>/fort-worth/</loc>
+		<lastmod>2025-02-07T02:09:58+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/claremore/</loc>
-		<lastmod>2025-02-06T03:43:11+00:00</lastmod>
+		<loc>/san-antonio/</loc>
+		<lastmod>2025-02-07T02:09:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tulsa/</loc>
-		<lastmod>2025-02-06T03:43:10+00:00</lastmod>
+		<loc>/pasadena/</loc>
+		<lastmod>2025-02-07T02:09:57+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/del-city/</loc>
-		<lastmod>2025-02-06T03:43:10+00:00</lastmod>
+		<loc>/amarillo/</loc>
+		<lastmod>2025-02-07T02:09:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/mustang/</loc>
-		<lastmod>2025-02-06T03:43:10+00:00</lastmod>
+		<loc>/grand-prairie/</loc>
+		<lastmod>2025-02-07T02:09:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/bixby/</loc>
-		<lastmod>2025-02-06T03:43:09+00:00</lastmod>
+		<loc>/brownsville/</loc>
+		<lastmod>2025-02-07T02:09:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/jenks/</loc>
-		<lastmod>2025-02-06T03:43:09+00:00</lastmod>
+		<loc>/frisco/</loc>
+		<lastmod>2025-02-07T02:09:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/yukon/</loc>
-		<lastmod>2025-02-06T03:43:08+00:00</lastmod>
+		<loc>/mckinney/</loc>
+		<lastmod>2025-02-07T02:09:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/owasso/</loc>
-		<lastmod>2025-02-06T03:43:08+00:00</lastmod>
+		<loc>/round-rock/</loc>
+		<lastmod>2025-02-07T02:09:55+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/shawnee/</loc>
-		<lastmod>2025-02-06T03:43:08+00:00</lastmod>
+		<loc>/garland/</loc>
+		<lastmod>2025-02-07T02:09:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/muskogee/</loc>
-		<lastmod>2025-02-06T03:43:07+00:00</lastmod>
+		<loc>/irving/</loc>
+		<lastmod>2025-02-07T02:09:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/bartlesville/</loc>
-		<lastmod>2025-02-06T03:43:07+00:00</lastmod>
+		<loc>/laredo/</loc>
+		<lastmod>2025-02-07T02:09:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/oklahoma-city/</loc>
-		<lastmod>2025-02-06T03:43:06+00:00</lastmod>
+		<loc>/lubbock/</loc>
+		<lastmod>2025-02-07T02:09:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/stillwater/</loc>
-		<lastmod>2025-02-06T03:43:06+00:00</lastmod>
+		<loc>/houston/</loc>
+		<lastmod>2025-02-07T02:09:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
